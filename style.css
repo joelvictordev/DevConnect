@@ -82,8 +82,9 @@ body{
     }
 
     .cadastro{
+        margin: 1px;
         padding: 5px;
-        width: 100%;
+        width: auto;
     }
     
     .caixinha{
@@ -96,10 +97,10 @@ body{
     }
 
     .nome{
-        font-size: 70px;
+        font-size: 31px;
     }
     
     .texto{
-        font-size: 40px;
+        font-size: 13px;
     }
 }
