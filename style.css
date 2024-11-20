@@ -75,3 +75,23 @@ body{
     color: #1E1C43;
     cursor: pointer;
 }
+
+@media (max-width: 1200px) {
+    .main{
+        flex-direction: column;
+    }
+
+    .cadastro{
+        padding: 5px;
+        width: 100%;
+    }
+    
+    .caixinha{
+        font-size: 25px;
+    }
+
+    .botao{
+        font-size: 25px;
+        width: 60%;
+    }
+}
