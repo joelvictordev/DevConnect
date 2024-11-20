@@ -88,6 +88,7 @@ body{
     }
 
     .botao{
+        height: auto;
         width: auto;
     }
 
