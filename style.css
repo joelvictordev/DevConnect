@@ -93,7 +93,7 @@ body{
 
     .botao{
         font-size: 40px;
-        width: 60%;
+        width: auto;
     }
 
     .nome{
