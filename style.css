@@ -87,9 +87,14 @@ body{
         width: auto;
     }
 
+    .caixinha{
+    border-radius: 2px;
+    }
+
     .botao{
         height: auto;
         width: auto;
+        border-radius: 2px;
     }
 
     .nome{
