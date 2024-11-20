@@ -87,11 +87,19 @@ body{
     }
     
     .caixinha{
-        font-size: 25px;
+        font-size: 40px;
     }
 
     .botao{
-        font-size: 25px;
+        font-size: 40px;
         width: 60%;
+    }
+
+    .nome{
+        font-size: 70px;
+    }
+    
+    .texto{
+        font-size: 40px;
     }
 }
