@@ -44,7 +44,7 @@ Botão de Submissão:
 Um botão para enviar os dados e concluir o cadastro.
 
 <p align="center">
-  <img alt="pagina de cadastro" src=".assets/cad.png" width="100%">
+  <img alt="pagina de cadastro" src="./assets/cad.png" width="100%">
 </p>
 
 A segunda Missão:
@@ -62,7 +62,7 @@ Botão de Submissão:
 Um botão para enviar os dados e realizar o login.
 
 <p align="center">
-  <img alt="pagina de login" src=".assets/login.png" width="100%">
+  <img alt="pagina de login" src="./assets/login.png" width="100%">
 </p>
 
 Design Intuitivo:
