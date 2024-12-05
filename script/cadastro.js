@@ -87,5 +87,3 @@ function cadastrar(){
         msgSucesso.setAttribute('style', 'display: none')
     } 
 }
-
-console.log('listaUser')
