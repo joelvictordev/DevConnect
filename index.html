@@ -8,15 +8,15 @@
 </head>
 <body>
     <main class="main">
-        <div id="msgErro"></div>
         <div class="apresentacao">
             <h1 class="nome">Dev Connect</h1>   
             <p class="texto">Bem vindo! Faça agora seu cadastro na melhor plataforma<br> de conexão para desenvolvedores ao redor do mundo.</p>
         </div>
         <div class="cadastro">
+            <div id="msgErro"></div>
             <input class="caixinha"type="text" id="email" placeholder="Digite seu email"><p></p>  
             <input class="caixinha" type="password" id="senha" placeholder="Digite sua senha"><p></p>
-            <button class="botao"><a href="home.html">Login</a></button>
+            <button onclick="entrar()"class="botao">Login</button>
             <button class="botao"><a href="cadastro.html">Fazer cadastro</a></button>
         </div>
         <script src="script/script.js""></script> 
