@@ -1,7 +1,7 @@
 <h1 align="center"> DevConnect - Projeto Prático </h1>
 
 <p align="center">
-Esse projeto foi desenvolvido conforme o que foi ensinado no curso gratuito de proghramação FullStack disponibilizado pelo Juventude Digital.
+Esse projeto foi desenvolvido conforme o que foi ensinado no curso gratuito de programação FullStack disponibilizado pelo Juventude Digital.
 </p>
 
 <p align="center">
