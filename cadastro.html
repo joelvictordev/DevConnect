@@ -4,11 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dev Connect</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="script/script.js""></script> 
+    <link rel="stylesheet" href="style.css"> 
 </head>
 <body>
     <main class="main">
+        <div id="msgErro"></div>
+        <div id="msgSucesso"></div>
         <div class="apresentacao">
             <h1 class="nome">Dev Connect</h1>   
             <p class="texto">Bem vindo! Faça agora seu cadastro na melhor plataforma<br> de conexão para desenvolvedores ao redor do mundo.</p>
@@ -20,18 +21,8 @@
             <input class="caixinha" type="password" id="senha" placeholder="Digite sua senha"><p></p>
             <input class="caixinha" type="password" id="senha" placeholder="Confirme sua senha"><p></p>
             <button onclick="addContas()" class="botao">Cadastre-se</button>
-            <p id="mensagem"></p>
         </div>
     </main>
+    <script src="script/script.js""></script>
 </body>
 </html>
-
-<!-- <div class="form-content"> -->
-    <!-- <label for="username">Nome do usuário</label>
-    <input
-      type="text"
-      id="username"
-      placeholder="Digite o nome do usuario..."
-    />
-    <a>Aqui vai a mensagem de erro....</a>
-  </div> -->
