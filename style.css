@@ -8,10 +8,10 @@
 }
 
 body{
-    background-color: #d6e3eb;
     box-sizing: border-box;
     margin: 6,25rem;
     min-height: 100vh;
+    background-color: #c6ebff;
 }
 
 .main{
@@ -39,6 +39,7 @@ body{
 }
 
 .cadastro{
+    background-color: #FFFFFF50;
     border: 2px solid;
     color: rgba(122, 161, 251, 0.324);
     text-align: center;
@@ -79,6 +80,7 @@ body{
     background-color:#4895BF;
     color: #1E1C43;
     cursor: pointer;
+    transition: all .3s ease-out;
 }
 
 a {
