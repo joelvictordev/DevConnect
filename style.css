@@ -76,6 +76,15 @@ body{
     cursor: pointer;
 }
 
+a {
+    color: inherit;
+}
+
+#mensagem {
+    color: #4895BF;
+    font-size: 20px;    
+}
+
 @media (max-width: 1200px) {
     .main{
         flex-direction: column;
